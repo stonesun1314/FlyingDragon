@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E35716BF194D963F00F7733C /* SSSharedAtles.m in Sources */ = {isa = PBXBuildFile; fileRef = E35716BE194D963F00F7733C /* SSSharedAtles.m */; };
+		E3A2026F1951EE00007AD251 /* SSFoeCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = E3A2026E1951EE00007AD251 /* SSFoeCloud.m */; };
 		E3C78301194D56CB00F863E7 /* SSFlyingDragonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3C78300194D56CB00F863E7 /* SSFlyingDragonViewController.m */; };
 		E3C78304194D8C2600F863E7 /* SSMainScene.m in Sources */ = {isa = PBXBuildFile; fileRef = E3C78303194D8C2600F863E7 /* SSMainScene.m */; };
 		E3E94EFC194C3F22003E822D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3E94EFB194C3F22003E822D /* Foundation.framework */; };
@@ -51,8 +51,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E35716BD194D963F00F7733C /* SSSharedAtles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSSharedAtles.h; sourceTree = "<group>"; };
-		E35716BE194D963F00F7733C /* SSSharedAtles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSSharedAtles.m; sourceTree = "<group>"; };
+		E3A2026D1951EE00007AD251 /* SSFoeCloud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFoeCloud.h; sourceTree = "<group>"; };
+		E3A2026E1951EE00007AD251 /* SSFoeCloud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFoeCloud.m; sourceTree = "<group>"; };
 		E3C782FF194D56CB00F863E7 /* SSFlyingDragonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFlyingDragonViewController.h; sourceTree = "<group>"; };
 		E3C78300194D56CB00F863E7 /* SSFlyingDragonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFlyingDragonViewController.m; sourceTree = "<group>"; };
 		E3C78302194D8C2600F863E7 /* SSMainScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSMainScene.h; sourceTree = "<group>"; };
@@ -160,8 +160,8 @@
 				E3C78300194D56CB00F863E7 /* SSFlyingDragonViewController.m */,
 				E3C78302194D8C2600F863E7 /* SSMainScene.h */,
 				E3C78303194D8C2600F863E7 /* SSMainScene.m */,
-				E35716BD194D963F00F7733C /* SSSharedAtles.h */,
-				E35716BE194D963F00F7733C /* SSSharedAtles.m */,
+				E3A2026D1951EE00007AD251 /* SSFoeCloud.h */,
+				E3A2026E1951EE00007AD251 /* SSFoeCloud.m */,
 				E3E94F18194C3F22003E822D /* Spaceship.png */,
 				E3E94F1A194C3F22003E822D /* Images.xcassets */,
 				E3E94F04194C3F22003E822D /* Supporting Files */,
@@ -338,9 +338,9 @@
 			files = (
 				E3C78301194D56CB00F863E7 /* SSFlyingDragonViewController.m in Sources */,
 				E3E94F14194C3F22003E822D /* ViewController.m in Sources */,
-				E35716BF194D963F00F7733C /* SSSharedAtles.m in Sources */,
 				E3E94F0E194C3F22003E822D /* AppDelegate.m in Sources */,
 				E3C78304194D8C2600F863E7 /* SSMainScene.m in Sources */,
+				E3A2026F1951EE00007AD251 /* SSFoeCloud.m in Sources */,
 				E3E94F0A194C3F22003E822D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -16,19 +16,6 @@
 {
     [super viewDidLoad];
     
-    /*
-    SKView *skView = (SKView *)self.view;
-    skView.showsFPS = YES;
-    skView.showsNodeCount = YES;
-    
-    // Create and configure the scene.
-    SKScene * scene = [MyScene sceneWithSize:skView.bounds.size];
-    scene.scaleMode = SKSceneScaleModeAspectFill;
-    
-    // Present the scene.
-    [skView presentScene:scene];
-     */
-    
     self.view.backgroundColor = [UIColor whiteColor];
 
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0, 200,1024, 100)];

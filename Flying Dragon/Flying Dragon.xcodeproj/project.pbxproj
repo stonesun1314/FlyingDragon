@@ -51,6 +51,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E39636DE1956B88F0012046F /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
+		E39636DF1956B88F0012046F /* Macros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Macros.h; sourceTree = "<group>"; };
 		E3A2026D1951EE00007AD251 /* SSFoeCloud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFoeCloud.h; sourceTree = "<group>"; };
 		E3A2026E1951EE00007AD251 /* SSFoeCloud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFoeCloud.m; sourceTree = "<group>"; };
 		E3C782FF194D56CB00F863E7 /* SSFlyingDragonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFlyingDragonViewController.h; sourceTree = "<group>"; };
@@ -156,6 +158,8 @@
 				E3E94F0F194C3F22003E822D /* Main.storyboard */,
 				E3E94F12194C3F22003E822D /* ViewController.h */,
 				E3E94F13194C3F22003E822D /* ViewController.m */,
+				E39636DE1956B88F0012046F /* Constants.h */,
+				E39636DF1956B88F0012046F /* Macros.h */,
 				E3C782FF194D56CB00F863E7 /* SSFlyingDragonViewController.h */,
 				E3C78300194D56CB00F863E7 /* SSFlyingDragonViewController.m */,
 				E3C78302194D8C2600F863E7 /* SSMainScene.h */,

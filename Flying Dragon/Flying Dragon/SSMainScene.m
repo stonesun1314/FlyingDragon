@@ -11,6 +11,7 @@
 #import "SSMainScene.h"
 
 #import "SSFoeCloud.h"
+#import <CoreMotion/CoreMotion.h>
 
 #define kSSFirstLevelDuringTime       10
 #define kSSSecondLevelDuringTime      12
@@ -38,6 +39,8 @@ typedef NS_ENUM(uint32_t, SSRoleCategory){
 @property (nonatomic, retain) SKSpriteNode *backgroundSprite;
 
 @property (nonatomic, retain) SKSpriteNode *flyingDragonSprite;
+
+@property (strong) CMMotionManager* motionManager;
 
 @end
 
@@ -227,6 +230,7 @@ typedef NS_ENUM(uint32_t, SSRoleCategory){
     }
 
 }
+
 
 
 @end
